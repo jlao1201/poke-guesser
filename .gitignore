@@ -131,3 +131,6 @@ dmypy.json
 # Files
 config.py
 main.py
+
+#Pycharm
+.idea
